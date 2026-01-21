@@ -10,7 +10,7 @@ workbook, and he is concerned that his presentation will fall flat.
 So, we want to help him design a dashboard to communicate
 his insights clearly.
 
-# Screenshots:
+# Dashboard Screenshot:
 ![Booking Revenue Dashboard](https://drive.google.com/uc?export=view&id=1xWTHwhpAqSIgYf1Sgq2Wbpe-9ab9COgE)
 
 # Key Features: 
