@@ -1,4 +1,4 @@
-# EXCEL hotel-booking-revenue-dashboard
+# EXCEL HOTEL BOOKING REVENUE DASHBOARD
 This explanatory dashboard helps the hotel in explaining a specific point why the hotel business 
 need to overbook same month resort reservation during July-August.
 
