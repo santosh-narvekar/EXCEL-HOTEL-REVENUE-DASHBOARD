@@ -7,8 +7,8 @@ A Business Analyst is digging into the data, and came up with some interesting
 insights and recommendations He wants to share with the leadership
 team. The problem is that all he has is a bunch of PivotTables in a
 workbook, and he is concerned that his presentation will fall flat.
-So, we want to help him design a dashboard to communicate
-his insights clearly.
+So being a Data Visualization Specialist and being a colleague at Maven Hotel Group,
+we want to help him design a dashboard to communicate his insights clearly.
 
 # Dashboard Screenshot:
 ![Booking Revenue Dashboard](https://drive.google.com/uc?export=view&id=1xWTHwhpAqSIgYf1Sgq2Wbpe-9ab9COgE)
