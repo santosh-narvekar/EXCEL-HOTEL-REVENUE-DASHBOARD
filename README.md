@@ -3,11 +3,11 @@ This explanatory dashboard helps the hotel in explaining a specific point why th
 need to overbook same month resort reservation during July-August.
 
 # Project Need & Goal: 
-A Business Analyst is digging into the data, and came up with some interesting
+A Business Analyst at Maven Hotel Group is digging into the data, and came up with some interesting
 insights and recommendations He wants to share with the leadership
 team. The problem is that all he has is a bunch of PivotTables in a
 workbook, and he is concerned that his presentation will fall flat.
-So being a Data Visualization Specialist and being a colleague at Maven Hotel Group,
+So being a Data Visualization Specialist and being a colleague of him,
 we want to help him design a dashboard to communicate his insights clearly.
 
 # Dashboard Screenshot:
